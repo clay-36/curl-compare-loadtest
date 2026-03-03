@@ -1,0 +1,6 @@
+# CODEOWNERS
+
+* @clay-36
+
+# Optional: keep ownership of repository config explicit.
+.github/ @clay-36

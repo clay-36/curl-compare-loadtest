@@ -11,6 +11,8 @@ Locust-style load testing and response comparison tool built with Flask and `cur
 - Per-row JSON diff popup.
 - Uses real `curl` timing metrics (`time_total`, `time_starttransfer`).
 
+![alt text](image.png)
+
 ## Install
 
 ```bash
